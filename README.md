@@ -31,7 +31,7 @@ To run the application, follow these steps:
     ```
 
 ## Example Output
-    ```
+    ```cmd
     Name: hurtylhdx, Age:59
     Hello, my name is hurtylhdx and I am 59 years old.
     ```
